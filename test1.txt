@@ -1,0 +1,3 @@
+Python is a general-purpose programming language 
+That is used to create software, websites, and analyze data. 
+It is easy to learn and has a large community of users. 
